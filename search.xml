@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[MarkDown基本语法]]></title>
-    <url>%2F2019%2F07%2F26%2FMarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[#MarkDown基本语法 --- ##标题 在要写的标题前面加”#”, 例如：#标题 ##引用 在引用前加”&gt; “, 例如：&gt; 引用 引用的效果 ##列表 ###有序列表 在列表标题前加”阿拉伯数字. “, 例如：1. 有序列表 有序列表 有序列表 ###无序列表 在列表标题前加”- “,例如：- 无序列表 无序列表 ##插入图片 格式：!+[图片信息]+(图片地址) （+号去掉即可） ##超链接文本 格式: [文本]+(地址) （+号去掉即可)：效果： 百度 ##文字加粗 在文本前后加入两个星号效果： 文字加粗 ##修改字体、颜色和字号 这个语法其他内容也适用在字体前加一对尖括号括起来的font信息字体： face=”字体名称”颜色： color=”字体颜色名称”字号： size=”字体字号”还可以加入字体位置的信息，也是用尖括号括起来居中： center居右： p align=”right”居左： p aligh=”left”效果： 修改后的字体 修改后的字体 修改后的字体]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>MarkDown基本语法</title>
+      <link href="/2019/07/26/MarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+      <url>/2019/07/26/MarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<center>#MarkDown基本语法---##标题<p>在要写的标题前面加”#”, 例如：#标题</p><hr><p>##引用</p><p>在引用前加”&gt; “, 例如：&gt; 引用</p><blockquote><p>引用的效果</p></blockquote><hr><p>##列表  </p><p>###有序列表</p><p>在列表标题前加”阿拉伯数字. “, 例如：1. 有序列表</p><blockquote></blockquote><ol><li>有序列表</li><li>有序列表</li></ol><p>###无序列表</p><p>在列表标题前加”- “,例如：- 无序列表</p><blockquote><ul><li>无序列表</li></ul></blockquote><hr><p>##插入图片</p><p>格式：!+[图片信息]+(图片地址)  （+号去掉即可）</p><hr><p>##超链接文本</p><p>格式: [文本]+(地址)  （+号去掉即可)：<br>效果：</p><blockquote><p><a href="www.baidu.com">百度</a></p></blockquote><hr><p>##文字加粗</p><p>在文本前后加入两个星号<br>效果：</p><blockquote><p><strong>文字加粗</strong></p></blockquote><hr><p>##修改字体、颜色和字号</p><p>这个语法其他内容也适用<br>在字体前加一对尖括号括起来的font信息<br>字体： face=”字体名称”<br>颜色： color=”字体颜色名称”<br>字号： size=”字体字号”<br>还可以加入字体位置的信息，也是用尖括号括起来<br>居中： center<br>居右： p align=”right”<br>居左： p aligh=”left”<br>效果：</p><blockquote><center><font face="微软雅黑" color="red" size="28">修改后的字体</font></center></blockquote><p align="right"><font face="微软雅黑" color="blue" size="28">修改后的字体<p align="left"><font face="微软雅黑" color="yellow" size="28">修改后的字体</font></p></font></p></center>]]></content>
+      
+      
       <categories>
-        <category>Hexo</category>
+          
+          <category> Hexo </category>
+          
       </categories>
-      <tags>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
