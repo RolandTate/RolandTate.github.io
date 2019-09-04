@@ -19,15 +19,4 @@
         <category>hexo</category>
       </categories>
   </entry>
-  <entry>
-    <title><![CDATA[MarkDown基本语法]]></title>
-    <url>%2F2019%2F07%2F26%2FMarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[标题在要写的标题前面加”#”, 例如：#标题 引用在引用前加”&gt; “, 例如：&gt; 引用 引用的效果 列表有序列表在列表标题前加”阿拉伯数字. “, 例如：1. 有序列表 有序列表 有序列表 无序列表在列表标题前加”- “,例如：- 无序列表 无序列表 插入图片格式：!+[图片信息]+(图片地址) （+号去掉即可） 超链接文本格式: [文本]+(地址) （+号去掉即可)：效果： 百度 文字加粗在文本前后加入两个星号效果： 文字加粗 修改字体、颜色和字号这个语法其他内容也适用在字体前加一对尖括号括起来的font信息字体： face=”字体名称”颜色： color=”字体颜色名称”字号： size=”字体字号”还可以加入字体位置的信息，也是用尖括号括起来居中： center居右： p align=”right”居左： p aligh=”left”效果： 修改后的字体 修改后的字体 修改后的字体]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
 </search>
